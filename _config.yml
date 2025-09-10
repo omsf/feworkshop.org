@@ -12,7 +12,7 @@ title: Your Site Title
 description: Your site description
 url: https://omsf.github.io
 baseurl: ""  # or "/repository-name" if it's a project site
-theme: jekyll-theme-primer@0.6.0
+theme: jekyll-theme-primer
 
 # Pagination
 paginate: 5
