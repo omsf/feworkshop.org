@@ -1,0 +1,21 @@
+remote_theme: chrisrhymes/bulma-clean-theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+# Site Settings
+title: Your Site Title
+description: Your site description
+url: https://omsf.github.io
+baseurl: ""  # or "/repository-name" if it's a project site
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Other settings from the theme
+footer_menu: footer_menu
