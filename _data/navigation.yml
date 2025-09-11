@@ -1,0 +1,67 @@
+- name: Home
+  link: /
+  
+- name: About
+  link: /about/
+  dropdown:
+    - name: Conference Overview
+      link: /about/
+    - name: Organizing Committee
+      link: /about/committee/
+    - name: History
+      link: /about/history/
+    - name: divider
+    - name: Contact Us
+      link: /contact/
+
+- name: Program
+  link: /program/
+  dropdown:
+    - name: Schedule Overview
+      link: /program/
+    - name: Keynote Speakers
+      link: /program/keynotes/
+    - name: Tutorials
+      link: /program/tutorials/
+    - name: Workshops
+      link: /program/workshops/
+    - name: Accepted Papers
+      link: /program/papers/
+
+- name: Attend
+  dropdown:
+    - name: Registration
+      link: /registration/
+    - name: Venue
+      link: /venue/
+    - name: Accommodation
+      link: /accommodation/
+    - name: Travel Information
+      link: /travel/
+    - name: Visa Support
+      link: /visa/
+    - name: divider
+    - name: Student Grants
+      link: /grants/
+
+- name: Authors
+  dropdown:
+    - name: Call for Papers
+      link: /call-for-papers/
+    - name: Submission Guidelines
+      link: /submission/
+    - name: Important Dates
+      link: /dates/
+    - name: divider
+    - name: Camera Ready Instructions
+      link: /camera-ready/
+    - name: Presentation Guidelines
+      link: /presentations/
+
+- name: Sponsors
+  link: /sponsors/
+  dropdown:
+    - name: Our Sponsors
+      link: /sponsors/
+    - name: Become a Sponsor
+      link: /sponsors/opportunities/

@@ -18,15 +18,41 @@ conference:
   date: June 15-17, 2025
   location: City, Country
   venue: Convention Center Name
-  
-# Navigation
-navigation_links:
-  - name: Program
-    relative_url: /program/
-  - name: Speakers
-    relative_url: /speakers/
-  - name: Venue
-    relative_url: /location/
-  - name: Registration
-    absolute_url: "https://registration-link.com"
-    disabled: false
+  navigation:
+    links:
+      - name: Home
+        menu:
+          - name: Welcome
+            relative_url: /
+          - name: Conference Overview
+            relative_url: /overview/
+          - name: Latest News
+            relative_url: /news/
+      - name: Program
+        menu:
+          - name: Schedule
+            relative_url: /program/schedule/
+          - name: Keynotes
+            relative_url: /program/keynotes/
+          - name: Workshops
+            relative_url: /program/workshops/
+          - name: Tutorials
+            relative_url: /program/tutorials/
+      - name: Speakers
+        menu:
+          - name: Keynote Speakers
+            relative_url: /speakers/keynotes/
+          - name: Invited Speakers
+            relative_url: /speakers/invited/
+          - name: All Speakers
+            relative_url: /speakers/
+      - name: About
+        menu:
+          - name: Committee
+            relative_url: /about/committee/
+          - name: History
+            relative_url: /about/history/
+          - name: Venue
+            relative_url: /about/venue/
+          - name: Contact
+            relative_url: /about/contact/
