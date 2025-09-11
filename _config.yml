@@ -7,16 +7,26 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
 
-# Site Settings
-title: Your Site Title
-description: Your site description
-url: https://omsf.github.io
-baseurl: ""  # or "/repository-name" if it's a project site
-theme: jekyll-theme-primer
+title: Your Conference 2025
+description: "Annual conference on [topic]"
+url: "https://[your-username].github.io"
 
-# Pagination
-paginate: 5
-paginate_path: "/blog/page:num"
-
-# Other settings from the theme
-footer_menu: footer_menu
+# Conference specific settings
+conference:
+  name: Your Conference Name
+  description: Conference Description
+  date: June 15-17, 2025
+  location: City, Country
+  venue: Convention Center Name
+  
+# Navigation
+navigation_links:
+  - name: Program
+    relative_url: /program/
+  - name: Speakers
+    relative_url: /speakers/
+  - name: Venue
+    relative_url: /location/
+  - name: Registration
+    absolute_url: "https://registration-link.com"
+    disabled: false
