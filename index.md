@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 ---
 
-## Welcome to Our Conference
+## Welcome to the Free energy Workshop
 
 We're excited to announce the 2025 International Conference on [Your Topic]. 
 Join us for an exciting program featuring world-class speakers, cutting-edge 
