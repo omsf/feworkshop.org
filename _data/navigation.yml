@@ -65,3 +65,11 @@
       link: /sponsors/
     - name: Become a Sponsor
       link: /sponsors/opportunities/
+
+- name: Archive
+  link: /archive/
+  dropdown:
+    - name: Boston 2025
+      link: /2025/
+    - name: Leiden 2024
+      link: /2024/

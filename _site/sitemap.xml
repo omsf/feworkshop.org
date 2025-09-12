@@ -48,4 +48,10 @@
 <url>
 <loc>http://localhost:4000/program/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/archive/2024/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/archive/2025/</loc>
+</url>
 </urlset>

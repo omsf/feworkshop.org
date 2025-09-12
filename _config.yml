@@ -56,3 +56,9 @@ conference:
             relative_url: /about/venue/
           - name: Contact
             relative_url: /about/contact/
+      - name: Archive
+        menu:
+          - name: Boston 2025
+            relative_url: /archive/2025/
+          - name: Leiden 2024
+            relative_url: /archive/2024/
