@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Boston 2025
+title: Leiden 2025
 ---
 
 <style>
