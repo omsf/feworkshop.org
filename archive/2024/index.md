@@ -62,7 +62,7 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 * [Jenke Scheen, PhD](https://www.linkedin.com/in/jenkescheen/)
 
 ## Organizer's Photo
-![A photo of organizers of the workshop.](organizers.png "Organizers, Leiden 2024")
+![A photo of organizers of the workshop.](organizers.jpg "Organizers, Leiden 2024")
 
 # Keynote Speaker: Max Welling
 * **Institution**: Chief Technology Officer  and Co-founder at CuspAI / Professor of Computational chemisry at University Amsterdam
@@ -71,7 +71,8 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 
 # Schedule
 ## May 13th, 2024 (Day 1)
-| Time           | Speaker                | Affiliation|
+
+| Time           | Speaker                | Affiliation |
 |----------------|------------------------|------------------------------------|
 | 8:00           | ATTENDEE REGISTRATION  |            |
 | 8:45           | WELCOME                |            |
@@ -99,7 +100,8 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 | 16:10          | Joe Kaus               | Relay Therapeutics |
 
 ## May 14th, 2024 (Day 2)
-| Time           | Speaker                | Affiliation|
+
+| Time           | Speaker                | Affiliation |
 |----------------|------------------------|------------------------------------|
 | 8:00           | ATTENDEE REGISTRATION & WALK-IN |            |
 |                | Session Chair          | Olivier Beyens |
@@ -129,7 +131,8 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 | 19:30          | COCKTAIL HOUR (Sponsored by Schödinger Inc.) |            |
 
 ## May 15th, 2024 (Day 3)
-| Time           | Speaker                | Affiliation|
+
+| Time           | Speaker                | Affiliation |
 |----------------|------------------------|------------------------------------|
 | 8:30           | ATTENDEE REGISTRATION & WALK-IN |            |
 |                | Session Chair          | AK Nandkeolyar |
