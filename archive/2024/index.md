@@ -84,7 +84,7 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 | 13:50          | POSTER SESSION         | |
 | 16:50          | GROUP PICTURE          | |
 | 17:15          | Walk to Grenere Urban Bistro Bar | |
-| 19:30          | COCKTAIL HOUR (Sponsored by Schödinger Inc.)
+| 19:30          | COCKTAIL HOUR (Sponsored by Schödinger Inc.) | |
 
 ## May 15th, 2024 (Day 3)
 | Time           | Speaker                | Affiliation|
