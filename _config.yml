@@ -62,3 +62,5 @@ conference:
             relative_url: /archive/2025/
           - name: Leiden 2024
             relative_url: /archive/2024/
+          - name: Boston 2023
+            relative_url: /archive/2023/
