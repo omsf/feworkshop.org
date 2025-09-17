@@ -65,7 +65,7 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 ![A photo of organizers of the workshop.](organizers.jpg "Organizers, Leiden 2024")
 
 # Keynote Speaker: Max Welling
-* **Institution**: Chief Technology Officer  and Co-founder at CuspAI / Professor of Computational chemisry at University Amsterdam
+* **Institution**: Chief Technology Officer and Co-founder at CuspAI; Professor of Computational chemisry at University of Amsterdam
 * **Title**: "Free Energy Is All You Need"
 
 <center>
