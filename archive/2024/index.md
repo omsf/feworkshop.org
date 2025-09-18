@@ -82,7 +82,7 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 # Schedule
 ## May 13th, 2024 (Day 1)
 
-| Time           | Speaker                | Affiliation |
+| Time (GMT)     | Speaker                | Affiliation |
 |----------------|------------------------|------------------------------------|
 | 8:00           | **ATTENDEE REGISTRATION**  |            |
 | 8:45           | **WELCOME**                |            |
@@ -111,7 +111,7 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 
 ## May 14th, 2024 (Day 2)
 
-| Time           | Speaker                | Affiliation |
+| Time (GMT)     | Speaker                | Affiliation |
 |----------------|------------------------|------------------------------------|
 | 8:00           | **ATTENDEE REGISTRATION & WALK-IN** |  |
 | **Session Chair: Olivier Beyens** | | |
@@ -142,7 +142,7 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 
 ## May 15th, 2024 (Day 3)
 
-| Time           | Speaker                | Affiliation |
+| Time (GMT)     | Speaker                | Affiliation |
 |----------------|------------------------|------------------------------------|
 | 8:30           | **ATTENDEE REGISTRATION & WALK-IN** |            |
 | **Session Chair: AK Nandkeolyar** | | |

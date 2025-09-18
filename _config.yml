@@ -64,3 +64,5 @@ conference:
             relative_url: /archive/2024/
           - name: Boston 2023
             relative_url: /archive/2023/
+          - name: Virtual 2022
+            relative_url: /archive/2022/
