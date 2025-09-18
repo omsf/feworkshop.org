@@ -101,6 +101,7 @@ The 2022 Virtual Workshop on Free Energy Methods in Drug Design, hosted by the A
 | Mateusz Bieniek | FEgrow: An Open-source molecular builder and free energy preparation workflow
 
 ## September 22nd, 2022 (Day 2; Session B)
+
 | Presenter       | Title                                 |
 |-----------------|---------------------------------------|
 | Sondos Musleh   | Absolute Binding Free Energy Calculations of Monosaccharide and Oligosaccharide Ligands of Concanavalin A. |
