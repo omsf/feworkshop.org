@@ -108,7 +108,7 @@ The 2022 Virtual Workshop on Free Energy Methods in Drug Design, hosted by the A
 | J. Jasmin Güven | Putting potential inhibitors for beta-lactamases under the alchemical microscope |
 | Anna Cavalleri  | Reparameterising Ligand Force Field Paremeters for application in Relative Binding Free Energies |
 | Matheus Ferraz  | Artificial neural network to predict the free energy of binding for protein-protein complexes from Rosetta calculated parameters |
-| Adele Hardie    | Deconstructing Allostery: Computational Assessment of the Binding Determinants of Allosteric PTP1B Modulators
+| Adele Hardie    | Deconstructing Allostery: Computational Assessment of the Binding Determinants of Allosteric PTP1B Modulators |
 | Mateusz Bieniek | FEgrow: An Open-source molecular builder and free energy preparation workflow |
  
 
