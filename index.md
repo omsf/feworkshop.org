@@ -3,6 +3,8 @@ layout: home
 title: Welcome
 ---
 
+<link rel="shortcut icon" type="image/png" href="assets/favicon.png">
+
 ## Welcome to the Free energy Workshop
 
 We're excited to announce the 2025 International Conference on [Your Topic]. 
