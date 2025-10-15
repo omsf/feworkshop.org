@@ -66,3 +66,5 @@ conference:
             relative_url: /archive/2023/
           - name: Virtual 2022
             relative_url: /archive/2022/
+          - name: Virtual 2020
+            relative_url: /archive/2020/
