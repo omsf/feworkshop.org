@@ -54,7 +54,7 @@ The 2024 Workshop on Free Energy Methods in Drug Design brought together experts
 * [Irfan Alibay, PhD](https://www.linkedin.com/in/irfan-alibay-07100856/)
 * [James Eastwood, PhD](https://www.linkedin.com/in/jamesreastwood/)
 * [Vytautas Gapsys, PhD](https://www.linkedin.com/in/vytautas-gapsys-7773768/)
-* [Bert de Groot, PhD](https://www3.mpibpc.mpg.de/groups/de_groot/bgroot.html)
+* [Bert L. de Groot, PhD](https://www3.mpibpc.mpg.de/groups/de_groot/bgroot.html)
 * [Hugo Gutiérrez de Terán, PhD](https://www.linkedin.com/in/hugogdteran/)
 * [David Hahn, PhD](https://www.linkedin.com/in/davidfriedrichhahn/)
 * [Willem Jespers, PhD](https://www.linkedin.com/in/willem-jespers-436055b6/)
