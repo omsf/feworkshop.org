@@ -73,7 +73,7 @@ Over the two days, the event gathered free energy calculation practitioners and 
 | 10:35          | **RREAK**              | |
 | 11:00          | Herman van Vlijmen     | Prediction of Activity Cliffs Using FEP+ and Gromacs FEP |
 | 11:30          | Peter V. Coveney       | Performance of Alchemical Relative Free Energy Calculations With and Without Replica-Exchange |
-| 12:00          |  | Willem Jespers        | QligFEP: An Automated Workflow for Small Molecule Free Energy Calculations in Q |
+| 12:00          | Willem Jespers         | QligFEP: An Automated Workflow for Small Molecule Free Energy Calculations in Q |
 | 12:20          | **POSTERS/LUNCH**      | |
 | **Session Chair: John D. Chodera**      | | |
 | 2:00           | Clara Christ           | From Seven Million to Four - Identifying Novel Covalent Binders for KRASG12C |
@@ -86,6 +86,7 @@ Over the two days, the event gathered free energy calculation practitioners and 
 | 5:25           | **DISCUSSION**         | |
 
 ## May 28th, 2019 (Day 2)
+
 | Time (CEST)    | Speaker                | Title       |
 |----------------|------------------------|------------------------------------|
 | **Session Chair: Vytautas Gapsys**      | | |
@@ -108,7 +109,8 @@ Over the two days, the event gathered free energy calculation practitioners and 
 | 4:50           | Bert L. de Groot       | Closing Remarks |
 
 
-# Poster Session
+## Poster Session
+
 | Presenter | Affiliation | Title |
 |-----------|-------------|---------------------------|
 | Maximilian Kuhn | Cresset and University of Edinburgh | Developing a Robust Method for Automated Assessment of Binding Affinity via Free Energy Perturbation |

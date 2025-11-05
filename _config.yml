@@ -70,3 +70,5 @@ conference:
             relative_url: /archive/2020/
           - name: Göttingen 2019
             relative_url: /archive/2019/
+          - name: Boston 2018
+            relative_url: /archive/2018/
