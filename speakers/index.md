@@ -1,32 +1,18 @@
 ---
 layout: page
-title: All Speakers
+title: All Participants
 ---
 
-# All Speakers
+# All Participants
 
-## Keynote Speakers
+## Keynote Presenters
 
-- Speaker 1 - University Name
-- Speaker 2 - Research Institute
-- Speaker 3 - Company Name
+- Presenter 1 - University Name
+- Presenter 2 - Research Institute
+- Presenter 3 - Company Name
 
-## Invited Speakers
+## Invited Presenters
 
-- Speaker A - Institution
-- Speaker B - Institution
-- Speaker C - Institution
-
-## Session Speakers
-
-### Session 1
-- Presenter 1
-- Presenter 2
-
-### Session 2
-- Presenter 3
-- Presenter 4
-
-### Session 3
-- Presenter 5
-- Presenter 6
+- Presenter A - Institution
+- Presenter B - Institution
+- Presenter C - Institution
