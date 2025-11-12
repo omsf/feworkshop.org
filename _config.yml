@@ -7,8 +7,8 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
 
-title: Your Conference 2025
-description: "Annual conference on [topic]"
+title: Alchemistry
+description: "Annual conference on Free Energy Methods in Drug Discovery"
 url: "https://[your-username].github.io"
 
 # Conference specific settings
@@ -38,14 +38,16 @@ conference:
             relative_url: /program/workshops/
           - name: Tutorials
             relative_url: /program/tutorials/
-      - name: Speakers
+      - name: Participants
         menu:
-          - name: Keynote Speakers
+          - name: Keynote Presenters
             relative_url: /speakers/keynotes/
-          - name: Invited Speakers
+          - name: Invited Presenters
             relative_url: /speakers/invited/
-          - name: All Speakers
+          - name: All Participants
             relative_url: /speakers/
+          - name: Posters
+            relative_url: /speakers/posters/
       - name: About
         menu:
           - name: Committee
