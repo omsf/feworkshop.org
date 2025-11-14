@@ -110,6 +110,53 @@ Over the two days, the event gathered free energy calculation practitioners and 
 
 
 # Poster Session
+=======
+| Time (CEST)     | Speaker               | Title       |
+|----------------|------------------------|------------------------------------|
+| 9:00           | Bert L. de Groot       | Welcome and Opening Remarks |
+| **Session Chair: Matteo Aldeghi**       | | |
+| 9:15           | John D. Chodera        | Adaptive Free Energy Calculations and Free-Energy Guided Design |
+| 9:45           | Antonia Mey            | Reproducible Free Energy Workflows with BioSimSpace |
+| 10:15          | Niels Hansen           | Probing Different Aspects of Stability for the Pin1-WW Domain |
+| 10:35          | **RREAK**              | |
+| 11:00          | Herman van Vlijmen     | Prediction of Activity Cliffs Using FEP+ and Gromacs FEP |
+| 11:30          | Peter V. Coveney       | Performance of Alchemical Relative Free Energy Calculations With and Without Replica-Exchange |
+| 12:00          | Willem Jespers         | QligFEP: An Automated Workflow for Small Molecule Free Energy Calculations in Q |
+| 12:20          | **POSTERS/LUNCH**      | |
+| **Session Chair: John D. Chodera**      | | |
+| 2:00           | Clara Christ           | From Seven Million to Four - Identifying Novel Covalent Binders for KRASG12C |
+| 2:30           | Philip W. Fowler       | Predicting Antimicrobial Resistance: The Role of Computational Modelling in Translating Genetics into Clinical Microbiology |
+| 3:00           | Vytautas Gapsys        | Large Scale pmx/Gromacs Based Non-Equilibrium Free Energy Calculations |
+| 3:20           | **RREAK**              | |
+| 3:50           | David L. Mobley        | Improving the Accuracy of Binding Free Energy Calculations via Enhanced Binding Mode Sampling and Better Force Fields |
+| 4:20           | Christina Schindler    | Free Energy Calculations in Active Drug Discovery Projects: Use Cases and Challenges |
+| 4:40           | William L. Jorgensen   | FEP for Drug Design Including Computation of Absolute Free Energies of Binding |
+| 5:25           | **DISCUSSION**         | |
+
+## May 28th, 2019 (Day 2)
+
+| Time (CEST)    | Speaker                | Title       |
+|----------------|------------------------|------------------------------------|
+| **Session Chair: Vytautas Gapsys**      | | |
+| 9:00           | Chris Oostenbrink      | Applications and Advances in the One-Step Perturbation Approach |
+| 9:30           | Daniel Seeliger        | Fragment Binding Pose Predictions Using Unbiased Simulations and Markov-State-Models |
+| 10:00          | Zoe Cournia            | Using Free Energy Perturbation Calculations to Predict Relative Binding Affinities in Drug Design |
+| 10:30          | **RREAK**              | |
+| 10:50          | Jonathan W. Essex      | The Role of Water in Mediating Biomolecular Binding: From Water Locations to Their Impact on Binding Affinity |
+| 11:20          | Thomas Steinbrecher    | In Silico Lead Optimization via Rapid Exploration of Synthetically Tractable Chemical Space with Combined Free Energy and Machine Learning Approaches |
+| 11:50          | Andrea Rizzi           | The SAMPL6 SAMPLing Challenge: Assessing the Reliability and Efficiency of Binding Free Energy Calculations |
+| 12:10          | **POSTERS/LUNCH**      | |
+| **Session Chair: Bert L. de Groot**     | | |
+| 1:40           | Philip C. Biggin       | ABFE, Water and Chemists: A Useful Combination? |
+| 2:10           | Zara Sands             | Free Energy Perturbation Calculations: Going Beyond SAR Analysis? |
+| 2:40           | Gregory A. Ross        | Enhancing Relative Protein-Ligand Binding Free Energy Calculations With Grand Canonical Monte Carlo Simulations of Water Molecules |
+| 3:00           | **RREAK**              | |
+| 3:30           | Albert Pan             | Using Long-Timescale Molecular Dynamics Simulations to Benchmark Enhanced Sampling Methods |
+| 4:00           | Philip Kim             | Integrated Design of Novel Biologics |
+| 4:20           | Gerhard König          | Free Energy Calculation Using a Reference State: Replica-Exchange Enveloping Distribution Sampling (RE-EDS) |
+| 4:50           | Bert L. de Groot       | Closing Remarks |
+
+## Poster Session
 
 | Presenter | Affiliation | Title |
 |-----------|-------------|-------|
